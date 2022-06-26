@@ -1,2 +1,2 @@
-print(this file was created on rstudio)
-print(and not it lives on github)
+print("this script was written on rstudio")
+print("and now it lives in github")
